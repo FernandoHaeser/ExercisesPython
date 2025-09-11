@@ -3,4 +3,4 @@
 frutas = ["Maçã", "Banana", "Morango", "Abacaxi"]
 
 print("\n",frutas[0])
-print("\n",frutas[3])
+print(frutas[-1])
